@@ -1,0 +1,14 @@
+C:\Users\kevin\Desktop\Reto-1-Fibonacci\obj\Debug\net7.0\Reto-1-Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Desktop\Reto-1-Fibonacci\obj\Debug\net7.0\Reto-1-Fibonacci.AssemblyInfoInputs.cache
+C:\Users\kevin\Desktop\Reto-1-Fibonacci\obj\Debug\net7.0\Reto-1-Fibonacci.AssemblyInfo.cs
+C:\Users\kevin\Desktop\Reto-1-Fibonacci\obj\Debug\net7.0\Reto-1-Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\Reto-1-Fibonacci\bin\Debug\net7.0\Reto-1-Fibonacci.exe
+C:\Users\kevin\Desktop\Reto-1-Fibonacci\bin\Debug\net7.0\Reto-1-Fibonacci.deps.json
+C:\Users\kevin\Desktop\Reto-1-Fibonacci\bin\Debug\net7.0\Reto-1-Fibonacci.runtimeconfig.json
+C:\Users\kevin\Desktop\Reto-1-Fibonacci\bin\Debug\net7.0\Reto-1-Fibonacci.dll
+C:\Users\kevin\Desktop\Reto-1-Fibonacci\bin\Debug\net7.0\Reto-1-Fibonacci.pdb
+C:\Users\kevin\Desktop\Reto-1-Fibonacci\obj\Debug\net7.0\Reto-1-Fibonacci.dll
+C:\Users\kevin\Desktop\Reto-1-Fibonacci\obj\Debug\net7.0\refint\Reto-1-Fibonacci.dll
+C:\Users\kevin\Desktop\Reto-1-Fibonacci\obj\Debug\net7.0\Reto-1-Fibonacci.pdb
+C:\Users\kevin\Desktop\Reto-1-Fibonacci\obj\Debug\net7.0\Reto-1-Fibonacci.genruntimeconfig.cache
+C:\Users\kevin\Desktop\Reto-1-Fibonacci\obj\Debug\net7.0\ref\Reto-1-Fibonacci.dll
